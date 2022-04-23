@@ -23,6 +23,9 @@ Point of sale is a web application Develope with one of the finest Framework Lar
 This Project is the v.1 with all the major functionalities Implemented .
  To Start this release please perform following Steps;
 
+ The first one composer install to update composer 
+ 
+
 1) Make Database with name "pos"
 2) Then run "php artisan migrate --seed" in terminal.
 3) Hit Url "http://localhost/pos/"
